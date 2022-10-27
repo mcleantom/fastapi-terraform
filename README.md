@@ -70,7 +70,7 @@ terraform init
 then check the plan
 
 ```shell
-terraform plan -var-vile="user.tfvars"
+terraform plan
 ```
 
 deploy the plan to AWS.
